@@ -1,4 +1,4 @@
-// Copyright 2022 Danis Rakasiwi (@David_McTravord555)
+// Copyright 2022 David McTravord (@David_McTravord555)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
