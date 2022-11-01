@@ -3,6 +3,7 @@
 enum my_keycodes {
   KC_00 = SAFE_RANGE
 };
+/* this is a custom keycode for making 00 */
 
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
   switch (keycode) {
@@ -17,6 +18,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
    }    
    return true;
 };
+/* this is said code for 00 */
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     /*
