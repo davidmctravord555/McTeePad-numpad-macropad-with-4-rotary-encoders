@@ -2,11 +2,11 @@
 
 ![mcteepad_v1](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+*A numpad/macropad with 4 rotary encoders for my drawing shortcut*
 
 * Keyboard Maintainer: [David McTravord](https://github.com/David_McTravord555)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: Any PCB you can make, even handwired acrylic "PCB" works, using Pro Micro as the controller
+* Hardware Availability: Any shop you can find
 
 Make example for this keyboard (after setting up your build environment):
 
